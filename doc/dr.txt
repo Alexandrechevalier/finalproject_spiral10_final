@@ -1,0 +1,13 @@
+pf
+
+38/40
+(-1) memory_adapter: any ?
+(-1)
+Failed to load resource: the server responded with a status of 404 (Not Found)
+  http://localhost:8081/sounds/thip.ogg
+Failed to load resource: the server responded with a status of 404 (Not Found)
+  http://localhost:8081/sounds/fireballs.ogg
+
+
+
+
